@@ -34,15 +34,21 @@ https://github.com/guanguans/design-patterns-for-humans-cn  设计模式
 
 
 [Piasy](https://blog.piasy.com/index.html) Piasy RxJava
+
 [小松的博客](http://blog.cgsdream.org) 微信阅读成员
+
 [weread](https://wereadteam.github.io/)
+
 [xingrz](https://xingrz.me/) 主要关注github上的项目
+
 [chaosleong](http://chaosleong.github.io/)
+
 [美团技术博客](https://tech.meituan.com)
 
 
 
-JavaEE
+####JavaEE 资料
 链接: https://pan.baidu.com/s/1J7LiKsQd2dtdGs_qqIVxXw 提取码: w9b6
+
 链接: https://pan.baidu.com/s/1NqsCNzSuHd0pDj5oVpIL6A 提取码: eub8
 
