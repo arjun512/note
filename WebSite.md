@@ -1,3 +1,9 @@
+
+[田维术](http://weishu.me/about/)
+[Jacks Blog](https://blog.dreamtobe.cn/)  流利说技术团队  
+[尼古拉斯.赵四 ]http://www.520monkey.com/  
+
+
 http://www.huangjie.name/  黄杰个人博客
 
 http://blog.cgsdream.org/ 小松博客, weRead
@@ -28,9 +34,10 @@ https://droidyue.com/ 技术小黑屋
 
 https://www.kymjs.com/ 开源实验室
 
-https://daimajia.com/ 代码家 陈凯
+https://daimajia.com/ 代码家 陈凯  
+https://github.com/guanguans/design-patterns-for-humans-cn  设计模式  
+http://jayfeng.com/ 冯建 Android探索者  收集了很多Android参考链接
 
-https://github.com/guanguans/design-patterns-for-humans-cn  设计模式
 
 
 [Piasy](https://blog.piasy.com/index.html) Piasy RxJava
