@@ -1,6 +1,4 @@
 `::`  
-
-
 `Int::times`  int 的内部方法 times
 
 `fold` 集合fold(起始值，表达式) 表示集合每个元素执行表达式 ，可以用来做集合加法，乘法，阶乘
@@ -35,3 +33,5 @@ val jane = User( 35)
 val (age) = jane //这种声明式取属性
 println("$age age")
 ```
+kotlin for Android  
+`import kotlinx.android.synthetic.main.activity_main  
