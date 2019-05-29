@@ -1,3 +1,20 @@
+###### sealed  密封类
+
+
+###### 自定义 getter 的示例：
+
+```kotlin
+val isEmpty: Boolean
+    get() = this.size == 0
+``` 
+ 
+######  internal，它会在相同模块内随处可见；
+```kotlin
+public var bar: Int = 5 // 该属性随处可见
+    private set         // setter 只在 example.kt 内可见
+```
+
+
 `::`  
 `Int::times`  int 的内部方法 times
 
